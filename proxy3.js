@@ -1,7 +1,7 @@
 /*
 * Proxy Bridge
-* Copyright PANCHO7532 - P7COMUnications LLC (c) 2021
-* Dedicated to Emanuel Miranda, for giving me the idea to make this :v
+* Copyright GEMBOX TEAM - www.gembox.us LLC (c) 2021
+* Dedicated to kang mardhex, for giving me the idea to make this :v
 */
 const net = require('net');
 const stream = require('stream');
